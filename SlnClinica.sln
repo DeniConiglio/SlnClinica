@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{AF1B3F06-F6D8-447F-88FC-B2BBBB6FBCD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAppClinica", "WindowsAppClinica\WindowsAppClinica.csproj", "{000BA691-A673-46C8-BC95-D0FB2876F67B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1B3F06-F6D8-447F-88FC-B2BBBB6FBCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1B3F06-F6D8-447F-88FC-B2BBBB6FBCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1B3F06-F6D8-447F-88FC-B2BBBB6FBCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1B3F06-F6D8-447F-88FC-B2BBBB6FBCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000BA691-A673-46C8-BC95-D0FB2876F67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000BA691-A673-46C8-BC95-D0FB2876F67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000BA691-A673-46C8-BC95-D0FB2876F67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000BA691-A673-46C8-BC95-D0FB2876F67B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70EC11D6-FC6E-469A-BB5E-155ABC767751}
+	EndGlobalSection
+EndGlobal
